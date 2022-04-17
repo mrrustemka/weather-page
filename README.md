@@ -1,3 +1,12 @@
+The weather web page.
+
+Created on the Bootstrap fraemwork.
+
+Project structure:
+1) src
+2) public
+3) README
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
