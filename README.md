@@ -1,6 +1,6 @@
 The weather web page.
 
-Created on the Bootstrap fraemwork.
+Created on the React.
 
 Project structure:
 1) src
