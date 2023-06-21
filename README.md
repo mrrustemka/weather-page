@@ -1,11 +1,13 @@
 The weather web page.
+Link: https://mrrustemka.github.io/weather-page/
 
 Created on the React.
 
 Project structure:
-1) src
-2) public
-3) README
+
+1. src
+2. public
+3. README
 
 # Getting Started with Create React App
 
